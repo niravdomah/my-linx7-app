@@ -1,0 +1,8 @@
+[
+  {
+    "Id": "1woy",
+    "Name": "HostUrl",
+    "Type": "Compiled:String?",
+    "Value": "http://0.0.0.0:3000"
+  }
+]

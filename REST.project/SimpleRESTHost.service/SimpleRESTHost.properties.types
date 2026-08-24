@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "C_lvA3.Operations.Hello.Result",
+      "Properties": [
+        {
+          "Id": "HttpContext",
+          "Name": "HttpContext",
+          "Type": "Compiled:Twenty57.Linx.Plugins.Rest.Shared.WebServiceWithDefinitionEditor.OpenAPI.Data.Out.HttpContext, Twenty57.Linx.Plugins.Rest.Shared, Version=99.0.41.0, Culture=neutral, PublicKeyToken=null?",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ResponseBody",
+          "Name": "ResponseBody",
+          "Type": "Compiled:String?",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

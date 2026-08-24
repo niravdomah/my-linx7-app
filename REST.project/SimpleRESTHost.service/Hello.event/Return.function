@@ -1,0 +1,15 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Generated:C_lvA3.Operations.Hello.Result?",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"ResponseBody\":\"Hello\"}",
+      "ValueType": "String?"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

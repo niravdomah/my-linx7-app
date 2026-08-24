@@ -1,0 +1,16 @@
+{
+  "ApplicationVersion": "7.0.212.0",
+  "ApplicationVersionSuffix": "vNext",
+  "SolutionVersion": 18,
+  "Plugins": [
+    "twenty57.linx.plugins.rest, 99.0.41-vnext",
+    "twenty57.linx.plugins.standard, 99.0.28-vnext",
+    "twenty57.linx.plugins.utilities, 99.0.21-vnext"
+  ],
+  "Dependencies": [
+    "twenty57.linx.solutiondependencies.compilation, 99.0.67-vnext",
+    "twenty57.linx.solutiondependencies.types, 99.0.17-vnext"
+  ],
+  "ProjectName": "REST",
+  "TestProjectName": null
+}
